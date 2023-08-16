@@ -1,0 +1,92 @@
+
+  html {
+  box-sizing: border-box;
+  }
+
+  *, *:before, *:after {
+    box-sizing: inherit;
+  } 
+
+  body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+  }
+  .parrafo{
+    text-align: center;
+    margin: auto;
+    font-size: 14px; 
+    margin-top: 10px;
+  }
+  .div-logo{
+    background-color: #42210B;
+  }
+
+  .text-h1{
+    text-align: center;
+  }
+
+  .icono{
+    width: 20%;
+    display: block;
+    margin: auto;
+  }
+
+  .navbar-nav{
+    background-color: peru;
+    margin: auto;
+    padding: 2%;
+    font-family: 'Poppins';
+    text-align: center;
+  }
+  
+  .nav-link{
+    padding: 2%;
+    text-decoration: none;
+    color: white;
+  }
+
+  .mainclass{
+    background-color: aqua;
+  }
+
+  .card {
+  width: 300px; 
+  border: 1px solid #ccc; 
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: auto;
+  margin-top: 1rem;
+  }
+
+  .card img {
+  max-width: 100%;
+  height: auto;
+  }
+
+  .card h2 {
+  font-size: 18px;
+  margin-top: 10px; 
+  }
+
+  .card p {
+  font-size: 14px; 
+  margin-top: 10px;
+  }
+
+  .footer {
+  margin-top: 10px;
+  padding: 10px;
+  width: 100%;
+  bottom: 0;
+  background-color: peru;
+  color: white;
+  display: inline-block;
+  text-align: center;
+  }
+
+  .icono-footer{
+  width: 3%;
+  margin: 1rem;
+  display: inline-block;
+  }
